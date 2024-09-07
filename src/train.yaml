@@ -1,0 +1,11 @@
+path: /root/autodl-tmp/2024_mars/coco
+train: train2017.txt
+val: val2017.txt
+# val: test2017.txt
+test: test-dev2017.txt
+
+names:
+  0: motor
+  1: nonmotor
+  2: occupation
+  3: garbagecan
